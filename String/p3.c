@@ -1,7 +1,7 @@
 #include<stdio.h>
 main(){
 	
-	char str[]="yash";
+	char str[]="janavi";
 	int length=strlen(str);
 	int i,sum=0;
 	
