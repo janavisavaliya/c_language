@@ -1,7 +1,7 @@
 #include<stdio.h>
 main(){
 	
-	char str[]="yash";
+	char str[]="janavi";
 	
 	printf("%s",strlwr(str));
 	
